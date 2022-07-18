@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc47f73a-ef52-4b02-aefd-57dce3f9d779" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RepMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +41,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "create.test.in.the.same.root": "true",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,6 +69,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bc47f73a-ef52-4b02-aefd-57dce3f9d779" name="Changes" comment="" />
@@ -86,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658131375669</updated>
-      <workItem from="1658131419689" duration="2875000" />
+      <workItem from="1658131419689" duration="4330000" />
     </task>
     <servers />
   </component>
