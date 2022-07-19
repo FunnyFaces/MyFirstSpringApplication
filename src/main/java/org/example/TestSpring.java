@@ -8,14 +8,17 @@ public class TestSpring {
                 "ApplicationContext.xml"
         );
 
-        //Music music = context.getBean("musicBean", Music.class);
-       // MusicPlayer musicPlayer = new MusicPlayer(music);
+        Music music = context.getBean("rockMusic", Music.class);
 
-        MusicPlayer musicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
-        musicPlayer.playMusicList();
+        MusicPlayer musicPlayer = new MusicPlayer(music);
 
-        System.out.println(musicPlayer.getName());
-        System.out.println(musicPlayer.getVolume());
+        musicPlayer.playMusic();
+
+        Music music2 = context.getBean("classicalMusic", Music.class);
+
+        MusicPlayer musicPlayer1 = new MusicPlayer(music2);
+
+        musicPlayer1.playMusic();
 
         context.close();
     }
