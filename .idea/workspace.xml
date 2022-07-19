@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc47f73a-ef52-4b02-aefd-57dce3f9d779" name="Changes" comment="add set and arraylist">
+    <list default="true" id="bc47f73a-ef52-4b02-aefd-57dce3f9d779" name="Changes" comment="replacing xml with annotations">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassicalMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658131375669</updated>
       <workItem from="1658131419689" duration="9823000" />
-      <workItem from="1658219572504" duration="2566000" />
+      <workItem from="1658219572504" duration="4518000" />
     </task>
     <task id="LOCAL-00001" summary="add set and arraylist">
       <created>1658143681214</created>
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658143681214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="replacing xml with annotations">
+      <created>1658228250936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658228250936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add set and arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="add set and arraylist" />
+    <MESSAGE value="replacing xml with annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="replacing xml with annotations" />
   </component>
 </project>
