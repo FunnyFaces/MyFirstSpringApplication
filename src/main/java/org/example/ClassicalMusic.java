@@ -7,13 +7,10 @@ import javax.annotation.PreDestroy;
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
 public class ClassicalMusic implements Music {
-    @PostConstruct
     public void doMyInit() {
         System.out.println("Doing my initialization");
     }
-    @PreDestroy
     public void doMyDestroy() {
         System.out.println("Doing my destraction");
     }
