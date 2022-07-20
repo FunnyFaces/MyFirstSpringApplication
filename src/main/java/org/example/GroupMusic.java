@@ -1,2 +1,5 @@
-package org.example;public enum GroupMusic {
+package org.example;
+
+public enum GroupMusic {
+    CLASSICAL, ROCK
 }
